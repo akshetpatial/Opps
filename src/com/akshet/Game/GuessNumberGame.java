@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 // If we make it public then  it should be defined inside the class GuessGame.java but the class name for this class is
-// GuessNumberGame.java if we want ot outside then do not use public.
+// GuessNumberGame.java if we want to outside then do not use public.
 class GuessGame
 {
     int CPU_num;
